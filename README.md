@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<!--
 **seelig2014-dev/seelig2014-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 🔭 I’m currently working on ...
 - Electrical maintenance and infrastructure projects at the Brazilian Air Force.
 - Technical documentation and reports for equipment and maintenance processes.
